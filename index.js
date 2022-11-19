@@ -4,3 +4,4 @@ let c=30
 let d=40
 let e=50
 let f=60
+let g=70
